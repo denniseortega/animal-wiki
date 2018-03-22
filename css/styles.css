@@ -1,0 +1,42 @@
+#bulldog-showing, #parrot-showing, #cat-showing{
+  display: none;
+}
+
+.clickable {
+  cursor: pointer;
+  color: #56B7E6;
+}
+
+.clickable1 {
+  cursor: pointer;
+  color: #56B7E6;
+}
+
+.clickable2 {
+  cursor: pointer;
+  color: #56B7E6;
+}
+
+ul{
+  font-family: helvetica;
+}
+.container h1{
+  text-align: center;
+  font-size: 18pt;
+  margin-bottom: 3%;
+  margin-top: 3%
+}
+.container{
+  margin-left:10%;
+  font-family: helvetica;
+}
+
+.dog{
+  color: #3B5F78;
+  text-align: center;
+}
+
+.parrot{
+  color: #3B5F78;
+  text-align: center;
+}
